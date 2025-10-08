@@ -25,6 +25,5 @@ Download from [python.org/downloads](https://www.python.org/downloads/)
 
 ### 2. Clone or Download the Project
 If you cloned it from GitHub:
-```bash
-git clone https://github.com/<your-username>/digital-locker.git
+git clone https://github.com/rohilsrivastava264-ops/digital-locker.git
 cd digital-locker
