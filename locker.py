@@ -41,7 +41,7 @@ def locker_menu(data):
         choice = input("Enter choice: ")
 
         if choice == "1":
-            item = input("Enter item to store: ")
+            item = input("Enter item to store: ")  
             data["items"].append(item)
             save_data(data)
             print("Item added successfully!\n")
